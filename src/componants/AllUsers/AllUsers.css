@@ -1,0 +1,12 @@
+.cart {
+    padding: 15px;
+    margin: 10px;
+    border: 1px solid rgb(214, 214, 214);
+  }
+  
+  .user-image img {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    margin-top: -20px;
+  }
